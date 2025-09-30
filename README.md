@@ -18,6 +18,18 @@ This project demonstrates a streamlined Business Intelligence (BI) workflow, tra
 4. **Dashboard (Visualization Tool)** → Interactive reports and visual insights into music trends.
 
 ---
+## 📌 Problem Statement
+Currently, Spotify’s raw “Top 50” dataset is limited to lists and rankings, making it difficult for stakeholders to see patterns and take insights quickly.
+From the screens, the key problems solved are:
+
+- **No clear KPI monitoring** → Dashboard provides quick summary of total songs, artists, popularity, duration, etc.
+- **Lack of explicit vs non-explicit analysis** → Users can compare how explicit songs perform vs non-explicit.
+- **Difficulty in tracking song/album distribution** → Visuals show breakdown by album type and release year.
+- **Trend visibility missing** → Popularity and distinct songs trends are shown over time (monthly & yearly).
+- **Artist vs Song level insights not connected** → Drill-down pages for Artists and Songs connect overview insights to detailed records.
+- **Decision-making gaps** → Marketing and curation teams can now identify which artists/songs to promote, trends to follow, and which content resonates with audiences.
+
+---
 ## 🎯  Business Requirement
 Spotify stakeholders (music analysts, playlist managers, and marketing teams) need a **consolidated dashboard** to monitor song and artist performance across different dimensions.
 Based on the screens provided, the business requires:
@@ -41,18 +53,6 @@ Based on the screens provided, the business requires:
 - Show Tracks per Song (Album/Single distribution).
 - Compare **Songs by Song Count.**
 - Provide detailed table with **song name, release date, avg popularity, position, avg duration per minutes.**
-
----
-## 📌 Problem Statement
-Currently, Spotify’s raw “Top 50” dataset is limited to lists and rankings, making it difficult for stakeholders to see patterns and take insights quickly.
-From the screens, the key problems solved are:
-
-- **No clear KPI monitoring** → Dashboard provides quick summary of total songs, artists, popularity, duration, etc.
-- **Lack of explicit vs non-explicit analysis** → Users can compare how explicit songs perform vs non-explicit.
-- **Difficulty in tracking song/album distribution** → Visuals show breakdown by album type and release year.
-- **Trend visibility missing** → Popularity and distinct songs trends are shown over time (monthly & yearly).
-- **Artist vs Song level insights not connected** → Drill-down pages for Artists and Songs connect overview insights to detailed records.
-- **Decision-making gaps** → Marketing and curation teams can now identify which artists/songs to promote, trends to follow, and which content resonates with audiences.
 
 ---
 ```
