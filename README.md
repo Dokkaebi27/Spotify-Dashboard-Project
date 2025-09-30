@@ -42,7 +42,8 @@ Spotify stakeholders (music analysts, playlist managers, and marketing teams) ne
 
 Based on the screens provided, the business requires:
 
-🏠 Overview Page
+---
+🏠 **Overview Page**
 - Track KPIs like **Total Songs, Distinct Artists, Average Popularity, Avg Duration.**
 - Compare **Explicit vs Non-Explicit Songs** and see their share.
 - Analyze **Songs by Album Type** (single, album, compilation).
@@ -50,13 +51,15 @@ Based on the screens provided, the business requires:
 - Trend analysis of **Avg Popularity & Distinct Songs by Month.**
 - Highlight **Top Songs & Top Artists by Popularity.**
 
-👤  Artist Page
+---
+👤  **Artist Page**
 - Show **Top Artists by Popularity.**
 - Compare **Tracks per Album and Songs by Artist.**
 - Provide drill-down to artist-level data **artist name, distinct song, position 1 hits per artist ,avg popularity per artist, avg position, avg duration per year.**
 - Support identifying artists with consistent hits and #1 positions.
 
-🎶 Songs Page
+---
+🎶 **Songs Page**
 - Rank **Top Songs by Popularity.**
 - Show Tracks per Song (Album/Single distribution).
 - Compare **Songs by Song Count.**
