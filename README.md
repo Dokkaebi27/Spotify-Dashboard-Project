@@ -1,10 +1,8 @@
-# 🎧Spotify-Dashboard-Project
-
-🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#versi-bahasa-indonesia)
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
 ---
-
-## English Version
+<a name="english-version"></a>
+# 🎧Spotify-Dashboard-Project
 
 Welcome to the **Spotify Analysis Project** repository 🚀 
 
@@ -117,10 +115,13 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaki-amani-ab091635b/) 
 
 ---
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
-## Versi Bahasa Indonesia
+---
+<a name="indonesian-version"></a>
+# 🎧Proyek Dasbor Spotify
 
-Selamat datang di repositori **Spotify Analysis Project** 🚀
+Selamat datang di repositori **Proyek Analisis Spotify** 🚀
 
 Proyek ini menyajikan analisis mendalam mengenai tren popularitas musik, performa artis, serta karakteristik lagu menggunakan data Spotify, yang divisualisasikan melalui dashboard interaktif. Dashboard ini menjadi studi kasus dalam **Data Analytics** dan **Business Intelligence (BI)**.
 
